@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "navigate-view": "./components/navigate-view"
+  }
+}

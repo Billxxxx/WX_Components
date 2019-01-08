@@ -1,0 +1,2 @@
+<!--index/test.wxml-->
+<text>index/test.wxml?value={{value}}</text>

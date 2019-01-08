@@ -1,0 +1,8 @@
+<!-- 引用组件的页面模版 -->
+<view>
+
+  <view>路由控件：</view>
+  <navigate-view path="./test?value=1">
+    <view>被包裹的内容，点击后跳转</view>
+  </navigate-view>
+</view>
